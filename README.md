@@ -1,6 +1,8 @@
 <picture><img src="./cover-image.webp" alt="Cover Image" /></picture>
 
-Hi there! I'm a **Full Stack MERN Developer** based in Jaipur, enjoying building web applications that are highly maintainable and **less chaotic than JavaScript usually wants them to be**.
+Hi there!
+
+I'm a **Full Stack MERN Developer**, building applications that are maintainable and **less chaotic than JavaScript usually wants them to be**.
 
 <br/>
 
