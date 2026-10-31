@@ -4,12 +4,14 @@ Hi there,
 
 I'm a **Full Stack MERN Developer**, building applications that are maintainable and **less chaotic than JavaScript usually wants them to be**.
 
+I enjoy exploring different **system designs and engineering approaches** to build a deeper understanding of software engineering and create efficient and scalable applications that solve real-world problems.
+
 <br/>
 
-I believe in that:
+My engineering philosophy:
 
-***Good code solves current problems, but***<br/>
-***Great code makes the next problem easier to debug and solve.***
+**Great software isn't just built to work.**<br/>
+**It's built to scale and stand the test of time.**
 
 <br/>
 
